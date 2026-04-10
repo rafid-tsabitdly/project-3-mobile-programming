@@ -1,4 +1,4 @@
-# project_3
+# project_3_mobile_programming
 
 A new Flutter project.
 
